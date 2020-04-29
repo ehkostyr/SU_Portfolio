@@ -1,5 +1,12 @@
+## Project description
+Group project using movie review data (6800+ observations, 18 attributes) obtained from Kaggle,
+addressing the business problem identied as cinema is increasingly competing with streaming services
+for entertainment and utilizing data mining technques (clustering, classification, and text mining)
+to answer the business question "How can Cinema increase the entertainment value of its movies?"
+## File description
 The files in this folder include a MS Word report summarizing the final project for the course, 
 a MS PowerPoint presentation used to present the project in class, 
 the R code used to analyze the data in R Studio, 
+results of data science techniques - Simple K-Means clustering, Naive Bayes, SVM, k-NN, and Random Forest classification, and text mining, 
 and the data used for the analysis in a MS Excel format.
 
