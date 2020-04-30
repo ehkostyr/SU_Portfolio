@@ -1,3 +1,10 @@
+## Project description
+Group project using six years of Toronto real estate data (670,00 observations, 42 attributes) obtained from the
+Toronto Real Estate Board (TREB) site, addressing the business problem identied as increasing rent prices are 
+motiving people to consider investing in real property that is currently overvalued due to the high demand to relocate 
+to the city and utilizing machine learning technques (Keras deep learning) to answer the business question 
+"What is a fair valuation for a property based on comparable homes in the immediate area?"
+## File description
 The files in this folder include a .pdf report summarizing the final project for the course,
 and the Python code used to analyze the data in Colab.
 The Python code includes a link to the source data used for the analysis.
