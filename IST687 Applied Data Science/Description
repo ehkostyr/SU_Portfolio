@@ -1,3 +1,9 @@
+## Project description
+Group project using assessment test data (6800+ observations, 18 attributes) obtained from two months
+of assessement, addressing the business problem to identify, and address potential areas associated with performance issues.
+General descriptive statistics, text mining and sentiment analysis was conducted 
+to answer the business question "What groups require immediate training support?"
+## File description
 The files in this folder include a MS Word report summarizing the final project for the course, 
 a MS PowerPoint presentation used to present the project in class, 
 the R code used to analyze the data in RStudio, 
