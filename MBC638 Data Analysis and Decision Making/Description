@@ -1,5 +1,5 @@
 ## Project description
-Group project using work related report production data (number of hours spent per step in the process,
+Individual project using work related report production data (number of hours spent per step in the process,
 and number of errors foudn per report), addressing the business problem identied as time spent on 
 different steps of data analysis varied in the production of bi-weekly reports, increasing the risk of 
 errors not being identified or addressed during the quality assurance phase. 
