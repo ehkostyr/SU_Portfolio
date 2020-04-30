@@ -1,2 +1,12 @@
-The files in this folder include a MS PowerPoint presentation used to present the project in class, 
+## Project description
+Group project using work related report production data (number of hours spent per step in the process,
+and number of errors foudn per report), addressing the business problem identied as time spent on 
+different steps of data analysis varied in the production of bi-weekly reports, increasing the risk of 
+errors not being identified or addressed during the quality assurance phase. 
+Statistical techniques (process map, and using sigma quality level (SQL) analysis, normal distribution, 
+pareto chart, sample size formula, scatterplot, Chi Square test, box and whisker plot, and a control chart)
+were employed to answer the business question 
+"What are the critical areas that require attention to reduce the error rate in reports?"
+## File description
+The files in this folder include a MS PowerPoint presentation used to present the project in class,
 the data used for the analysis in a MS Excel format which was also used for some of the analysis.
