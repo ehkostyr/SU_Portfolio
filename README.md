@@ -1,11 +1,6 @@
 # SU_Portfolio
 
-Student Name: 
-Elia Kostyrka
-SU ID:
-961652487
-E-mail: 
-ehkostyr@syr.edu
+Student Name: Elia Kostyrka; SU ID: 961652487; E-mail: ehkostyr@syr.edu
 
 This repository holds the portfolio requirement deliverables for the Syracuse University MS in Applied Data Science program. Together they demonstrate achievement of the learning goals of the program.
 
